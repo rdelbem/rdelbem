@@ -31,6 +31,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rdelbem&show_icons=true&theme=radical)
 
----
-
 [![Code stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelbem&layout=compact)](https://github.com/rdelbem/github-readme-stats)

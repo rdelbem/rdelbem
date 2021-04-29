@@ -22,7 +22,7 @@
 
 
 - 🔭 I’m currently working on my own website!
-- 🌱 I’m currently learning NEXTjs 
+- 🌱 I’m currently learning more about PWA 
 - 📫 You can reach me on my [linkedin](https://www.linkedin.com/in/rodrigo-del-bem-519a531b2/)
 - ⚡ Fun fact: I have two cats, Beca and Fubá!
 

@@ -28,5 +28,10 @@
 - ⚡ Fun fact: I have two cats, Beca and Fubá!
 
 ---
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rdelbem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rdelbem&show_icons=true&theme=radical) [![Code stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelbem&theme=radical)](https://github.com/rdelbem/github-readme-stats)

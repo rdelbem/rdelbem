@@ -1,6 +1,8 @@
+<center>
 ### Hi, my name is Rodrigo Del Bem 👋
 ### I am a Brazilian developer, currently in love with ReactJS, Javascript, SASS.
 ### Checkout my portfolio at Codepen https://codepen.io/rdelbem/full/ExZeNPE
+</center>
 
 ## 🧰 Languages and Tools:
 <p align="center">

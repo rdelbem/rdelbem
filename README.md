@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/hT6hXYk.png" width="100%">
 <h3 align="center">Hi, my name is Rodrigo Del Bem 👋</h3>
 <h3 align="center">I am a Brazilian developer, currently in love with ReactJS, Javascript, SASS.</h3>
 <h3 align="center">Checkout my portfolio at Codepen https://codepen.io/rdelbem/full/ExZeNPE</h3>

@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<p aling="center"><img align="center" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></p>
 <h3 align="center">Hi, my name is Rodrigo Del Bem 👋</h3>
 <h3 align="center">I am a Brazilian developer, currently in love with ReactJS, Javascript, SASS.</h3>
 <h3 align="center">Checkout my portfolio at Codepen https://codepen.io/rdelbem/full/ExZeNPE</h3>

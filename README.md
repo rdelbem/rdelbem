@@ -50,8 +50,4 @@
 <br/>
 <br/>
 
-<p align="center">
-[![Activity graph](https://activity-graph.herokuapp.com/graph?username=rdelbem&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
-
 ![](https://komarev.com/ghpvc/?username=rdelbem&style=flat-square&color=00e6fe)

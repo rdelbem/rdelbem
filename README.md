@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">Hi, my name is Rodrigo Del Bem <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 <h3 align="center">I am a Brazilian developer, currently in love with ReactJS, Javascript, SASS.</h3>
 <h3 align="center">Checkout my portfolio at Codepen https://codepen.io/rdelbem/full/ExZeNPE</h3>
